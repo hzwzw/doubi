@@ -32,7 +32,19 @@ magnet:
 xunlei
 sandai
 Thunder
-XLLiveUD"
+XLLiveUD
+360.com
+360.cn
+so.com
+so.cn
+dafahao
+minghui
+dongtaiwang
+epochtimes
+ntdtv
+falundafa
+wujieliulan
+zhengjian"
 
 check_sys(){
 	if [[ -f /etc/redhat-release ]]; then
